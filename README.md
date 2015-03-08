@@ -1,7 +1,7 @@
 clean-css online
 ---------------
 
-Built using jspm.
+Built using [jspm](http://jspm.io/) package manager.
 Uses webworkers for files over 50kb.
 
 To test locally:
